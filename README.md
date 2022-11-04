@@ -1,6 +1,4 @@
-# patika_dev_insertion_sort_projesi
-Patika.dev'in Veri Yapıları ve Algoritmalar eğitiminin ilk projesidir.
-
+{patika} {dev} {insertion} {sort} {projesi}
 [22,27,16,2,18,6] -> Insertion Sort
 
 
